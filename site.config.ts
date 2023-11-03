@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Qirui_Hu's Homepage',
+  name: 'QiruiH_Homepage',
   domain: 'https://www.notion.so/homepage-e664ca0b2f7c4c6db4f264b0fbdfb859',
   author: 'Qirui Hu',
 
